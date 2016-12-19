@@ -9,7 +9,7 @@ Check your website if it is seo.
 - each page has title
 - use unique title tags for each page
 - each page has meta description
-- ues unique descriptions for each page
+- use unique descriptions for each page
 - url does not just use ID number.
 - url does not use excessive keywords
 - url does not have deep nesting of subdirectories
